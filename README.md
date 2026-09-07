@@ -1,6 +1,6 @@
 <table width="100%">
   <tr>
-    <td width="75%" valign="middle">
+    <td width="85%" valign="middle">
       <p align="left">
         <sub><b>Hi 👋, I'm</b></sub><br/>
         <font size="6"><b>Sowndharya P.L.</b></font><br/>
@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/DSA-161f30?style=flat-square&logoColor=38bdf8" alt="DSA" />
       </p>
     </td>
-    <td width="25%" align="right" valign="middle">
+    <td width="85%" align="right" valign="middle">
       <i><font color="#818cf8" size="3">Turning<br/>ideas into<br/>working solutions<br/>♡</font></i>
     </td>
   </tr>
