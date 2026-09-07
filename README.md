@@ -213,14 +213,14 @@ Arrays ── Strings ── Hashing ── Two Pointers ── Linked Lists ─
   <table border="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=SowndharyaPL15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="400" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=SowndharyaPL15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="400" />
       </td>
       <td style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SowndharyaPL15&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="400" />
+        <img src="https://streak-stats.demolab.com/?user=SowndharyaPL15&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="400" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowndharyaPL15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="480" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SowndharyaPL15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="480" />
 </div>
 
 ---
