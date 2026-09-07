@@ -1,105 +1,111 @@
+<div align="center">
+
 # SOWNDHARYA P.L.
 
-### Computer Science Engineer · Full-Stack Developer · AI/ML Enthusiast
+### SOFTWARE ENGINEER · AI BUILDER · PROBLEM SOLVER
 
-<p align="left">
-  <a href="https://github.com/SowndharyaPL15">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://sowndharya-beta.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:plsowndharya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br>
 
-> I build software that combines **strong engineering fundamentals, intelligent systems, and practical problem solving**.
+<a href="https://www.linkedin.com/in/sowndharyapl/">
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/SowndharyaPL15">
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://sowndharya-beta.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:plsowndharya@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-111111?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+**Engineering ideas into useful software.**
+
+</div>
 
 ---
 
-## About
+## 01 — PROFILE
 
-I am a **Computer Science Engineering student** with a strong interest in software development, artificial intelligence, and building real-world applications.
+I'm a **Computer Science Engineering student** who enjoys turning complex problems into practical software.
 
-My work spans **Java development, full-stack engineering, machine learning, computer vision, databases, and API development**.
+My interests sit at the intersection of:
 
-Currently, I am focused on strengthening my foundations in **Data Structures & Algorithms, Advanced Java, AI/ML, backend development, and scalable software architecture**.
+`Software Engineering` · `Artificial Intelligence` · `Full-Stack Development`
+
+I build applications, experiment with intelligent systems, study algorithms, and continuously improve the way I design and solve problems.
+
+Currently pursuing **B.E. Computer Science & Engineering with Honours in Blockchain Technology** at **Dr. N.G.P. Institute of Technology**.
 
 ```text
-Education
-B.E. Computer Science & Engineering
-Honours in Blockchain Technology
-Dr. N.G.P. Institute of Technology
-2023 — 2027
+2023 ─────────────────────────────── 2027
+             B.E. CSE
 
-CGPA
-8.35 / 10.0
+Academic Performance
+CGPA · 8.35 / 10.0
 ```
 
 ---
 
-## Engineering Focus
+## 02 — WHAT I BUILD
 
-```text
-Software Engineering
-├── Java
-├── Data Structures & Algorithms
-├── Object-Oriented Programming
-├── REST APIs
-└── Backend Development
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Full-Stack Development
-├── React / Next.js
-├── Node.js / Express.js
-├── Laravel
-├── HTML / CSS / JavaScript
-└── SQL / PostgreSQL / MySQL
+### SOFTWARE
 
-Artificial Intelligence
-├── Machine Learning
-├── Deep Learning
-├── Computer Vision
-├── CNN
-├── Transfer Learning
-└── Explainable AI
+Building reliable applications with strong engineering fundamentals.
 
-Engineering Tools
-├── Git / GitHub
-├── Docker
-├── Postman
-├── VS Code
-├── Android Studio
-└── Vercel
-```
+* Java applications
+* REST APIs
+* Backend systems
+* Full-stack web applications
+* Database-driven systems
+* Android applications
+
+</td>
+
+<td width="50%" valign="top">
+
+### INTELLIGENCE
+
+Exploring how software can understand, predict and assist.
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* CNN architectures
+* Transfer Learning
+* Explainable AI
+
+</td>
+</tr>
+</table>
 
 ---
 
-# Selected Work
+# 03 — SELECTED WORK
 
-## 01 · Precision Oncology
+### 01 / PRECISION ONCOLOGY
 
-### AI-Driven Precision Oncology Decision Support System
+**AI-Driven Precision Oncology Decision Support System**
 
-An **explainable multimodal deep-learning system** designed to support early detection of **lung and breast cancer** by combining medical image analysis with clinical information.
+> Multimodal deep learning for early lung and breast cancer analysis.
 
-The project explores how multiple sources of medical information can be integrated instead of relying only on image classification.
+A research-oriented system combining **histopathology images and clinical information** to support cancer prediction.
 
-**Core Components**
+The system explores multimodal feature fusion together with explainability techniques such as **Grad-CAM**, allowing predictions to be analyzed rather than treated as black-box outputs.
 
-* Histopathology image analysis
-* Lung cancer classification
-* Breast cancer classification
-* Multimodal feature fusion
-* Clinical feature integration
-* Deep-learning based prediction
-* Explainable AI using Grad-CAM
-* Model evaluation and visualization
-* Clinical decision-support interface
+**Stack**
 
-**Technology**
-
-`Python` `TensorFlow` `Keras` `OpenCV` `EfficientNet` `DenseNet` `FastAPI` `React`
+`Python` `TensorFlow` `Keras` `EfficientNet` `DenseNet`
+`OpenCV` `FastAPI` `React` `Explainable AI`
 
 **Datasets**
 
@@ -107,298 +113,213 @@ The project explores how multiple sources of medical information can be integrat
 
 ---
 
-## 02 · SmartExpensePro
+### 02 / SMARTEXPENSEPRO
 
-### SMS-Based Expense Tracking
+**SMS-Based Expense Intelligence**
 
-An Android application that automatically identifies financial transactions from SMS messages and converts them into structured expense records.
+> Turning transaction messages into structured financial records.
 
-The project focuses on reducing manual expense tracking through **transaction extraction, categorization, and automated processing**.
+An Android application that automatically detects financial transactions from SMS messages, extracts relevant information and organizes them into expense records.
 
-**Core Components**
+**Stack**
 
-* SMS transaction detection
-* Transaction parsing
-* Amount extraction
-* Regex-based processing
-* Expense categorization
-* Transaction history
-* Expense management
+`Java` `Android` `SQLite` `Regex`
 
-**Technology**
-
-`Java` `Android Studio` `SQLite` `Regex`
-
-**Repository**
-
-[View Project →](https://github.com/SowndharyaPL15/SmartExpensePro)
+→ [Explore the repository](https://github.com/SowndharyaPL15/SmartExpensePro)
 
 ---
 
-## 03 · PharmaTrace AI
+### 03 / PHARMATRACE AI
 
-### Pharmaceutical Authentication & Supply Chain
+**Pharmaceutical Authentication & Traceability**
 
-A full-stack platform focused on improving **medicine authenticity and pharmaceutical traceability** through digital verification and supply-chain monitoring.
+> Technology for improving medicine verification and supply-chain visibility.
 
-**Core Components**
+A full-stack platform focused on pharmaceutical authenticity, product verification and digital traceability.
 
-* Medicine authentication
-* QR-based verification
-* Product tracking
-* Supply-chain monitoring
-* AI-assisted verification
-* Database-backed records
-* REST-based application architecture
-
-**Technology**
+**Stack**
 
 `Node.js` `Express.js` `Python` `Flask` `PostgreSQL` `EJS`
 
-**Repository**
-
-[View Project →](https://github.com/SowndharyaPL15/pharmatrace-ai)
+→ [Explore the repository](https://github.com/SowndharyaPL15/pharmatrace-ai)
 
 ---
 
-## 04 · CivicPulse
+### 04 / CIVICPULSE
 
-### Smart Civic Issue Management
+**Smart Civic Issue Management**
 
-A civic technology platform designed to connect citizens and authorities through structured reporting of public issues.
+> Connecting citizens, problems and authorities through software.
 
-Citizens can report problems using **images and location information**, enabling authorities to organize, prioritize, and manage reported issues.
+A civic technology platform for reporting public issues, processing submissions and helping authorities organize and manage reported problems.
 
-**Core Components**
+**Stack**
 
-* Civic issue reporting
-* Image-based submissions
-* Location information
-* Duplicate issue detection
-* Issue prioritization
-* Department assignment
-* Administrative management
+`PHP` `Laravel` `MySQL` `JavaScript`
 
-**Technology**
-
-`PHP` `Laravel` `MySQL` `JavaScript` `HTML` `CSS`
-
-**Repository**
-
-[View Project →](https://github.com/SowndharyaPL15/civicpulse)
+→ [Explore the repository](https://github.com/SowndharyaPL15/civicpulse)
 
 ---
 
-## 05 · CuraNet
+### 05 / CURANET
 
-### Digital Healthcare Support Platform
+**Digital Healthcare Platform**
 
-A healthcare-oriented web platform designed to provide a centralized environment for connecting patients, caregivers, and healthcare services.
+> A web platform designed around accessible healthcare services.
 
-**Technology**
+Built as a web-based healthcare support system using a server-side application architecture.
+
+**Stack**
 
 `Node.js` `Express.js` `EJS` `JavaScript`
 
-**Repository**
-
-[View Project →](https://github.com/SowndharyaPL15/CuraNet)
+→ [Explore the repository](https://github.com/SowndharyaPL15/CuraNet)
 
 ---
 
-# Problem Solving
+# 04 — ENGINEERING STACK
 
-## Data Structures & Algorithms
+<div align="center">
 
-I regularly practice algorithmic problem solving with **Java**, focusing on developing efficient solutions and strengthening core computer science fundamentals.
+### LANGUAGES
 
-```text
-Arrays
-Strings
-Hashing
-Linked Lists
-Stacks & Queues
-Binary Search
-Trees
-Graphs
-Greedy Algorithms
-Backtracking
-Dynamic Programming
-```
+`JAVA` · `PYTHON` · `C` · `JAVASCRIPT` · `TYPESCRIPT`
 
-**Solutions**
+### FRONTEND
 
-[View DSA Repository →](https://github.com/SowndharyaPL15/leetcode-solution)
+`HTML` · `CSS` · `REACT` · `NEXT.JS`
 
----
+### BACKEND
 
-# Technical Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
-</p>
-
-`Java` · `Python` · `C` · `JavaScript` · `TypeScript`
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
-</p>
-
-`HTML` · `CSS` · `JavaScript` · `React` · `Next.js`
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,flask,fastapi" />
-</p>
-
-`Node.js` · `Express.js` · `PHP` · `Laravel` · `Flask` · `FastAPI`
+`NODE.JS` · `EXPRESS.JS` · `PHP` · `LARAVEL` · `FLASK` · `FASTAPI`
 
 ### AI / ML
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-</p>
+`TENSORFLOW` · `KERAS` · `PYTORCH` · `OPENCV`
+`MACHINE LEARNING` · `DEEP LEARNING` · `COMPUTER VISION` · `EXPLAINABLE AI`
 
-`Machine Learning` · `Deep Learning` · `CNN` · `Computer Vision`
-`TensorFlow` · `Keras` · `PyTorch` · `OpenCV` · `Explainable AI`
+### DATA
 
-### Databases
+`MYSQL` · `POSTGRESQL` · `MONGODB` · `SQL`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+### ENGINEERING
 
-`MySQL` · `PostgreSQL` · `MongoDB` · `SQL`
+`GIT` · `GITHUB` · `DOCKER` · `POSTMAN` · `VSCODE` · `ANDROID STUDIO` · `VERCEL`
 
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,postman,vercel" />
-</p>
-
-`Git` · `GitHub` · `Docker` · `VS Code` · `Android Studio` · `Postman` · `Vercel`
+</div>
 
 ---
 
-# Currently Exploring
+# 05 — PROBLEM SOLVING
+
+### ALGORITHMS × JAVA
+
+I use **Java** as my primary language for algorithmic problem solving.
+
+My focus is not simply solving more problems — it is understanding **why a solution works, how it scales, and how it can be improved**.
 
 ```text
-Advanced Java
-       │
-       ├── Object-Oriented Design
-       ├── Collections
-       ├── Multithreading
-       └── Backend Engineering
-       │
-       ▼
-Data Structures & Algorithms
-       │
-       ▼
-Artificial Intelligence
-       │
-       ├── Deep Learning
-       ├── Computer Vision
-       └── Explainable AI
-       │
-       ▼
-Full-Stack Systems
-       │
-       ├── APIs
-       ├── Databases
-       └── Deployment
-       │
-       ▼
-Cloud & DevOps
+Arrays              Strings
+Hashing             Linked Lists
+Stacks & Queues     Binary Search
+Trees               Graphs
+Greedy              Backtracking
+Dynamic Programming
+```
+
+→ [View my LeetCode solutions](https://github.com/SowndharyaPL15/leetcode-solution)
+
+---
+
+# 06 — CURRENTLY EXPLORING
+
+```text
+                     SOFTWARE ENGINEERING
+                              │
+              ┌───────────────┼───────────────┐
+              ↓               ↓               ↓
+             JAVA            DSA            BACKEND
+              │               │               │
+              └───────────────┼───────────────┘
+                              ↓
+                    ARTIFICIAL INTELLIGENCE
+                              │
+              ┌───────────────┼───────────────┐
+              ↓               ↓               ↓
+        DEEP LEARNING   COMPUTER VISION   EXPLAINABILITY
+                              │
+                              ↓
+                     FULL-STACK SYSTEMS
+                              │
+                              ↓
+                       CLOUD & DEVOPS
 ```
 
 ---
 
-# Development Philosophy
+# 07 — HOW I APPROACH PROBLEMS
 
-I believe good software is not just about making something work.
+I like to keep the process simple.
 
-It should be:
+**Understand → Design → Build → Test → Improve → Deploy**
 
-```text
-Understand the problem
-        ↓
-Design the solution
-        ↓
-Build with clean fundamentals
-        ↓
-Test and evaluate
-        ↓
-Improve performance
-        ↓
-Deploy
-        ↓
-Learn from the result
-```
+Good engineering, to me, means understanding the problem before writing the solution.
 
-My goal is to become an engineer who can move comfortably from **problem definition → system design → implementation → deployment**.
+The goal isn't just to make software work.
+
+It's to make it **useful, maintainable and understandable**.
 
 ---
 
-# GitHub Activity
+# 08 — GITHUB
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SowndharyaPL15&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowndharyaPL15&layout=compact&hide_border=true&theme=transparent"
-    height="165"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SowndharyaPL15&hide_border=true&theme=transparent"
-    width="70%"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=SowndharyaPL15&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160"/>
+
+  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowndharyaPL15&layout=compact&hide_border=true&theme=transparent" height="160"/>
+
+</div>
 
 ---
 
-# Beyond the Code
+# 09 — BEYOND THE CODE
 
-I enjoy working on projects where software has a clear purpose — from **AI-assisted healthcare systems** and **pharmaceutical verification** to **financial automation** and **civic technology**.
+I enjoy projects where technology has a **clear purpose**.
 
-I'm particularly interested in the space where:
+Healthcare.
 
-**Software Engineering × Artificial Intelligence × Real-World Problems**
+Financial automation.
 
----
+Pharmaceutical verification.
 
-# Let's Connect
+Civic technology.
 
-<p align="left">
+Artificial intelligence.
 
-<a href="https://github.com/SowndharyaPL15">
-  <img src="https://img.shields.io/badge/GitHub-SowndharyaPL15-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Different domains, same question:
 
-<a href="https://sowndharya-beta.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+> **How can software solve the problem better?**
 
-<a href="mailto:plsowndharya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+That's the space I want to keep exploring.
 
 ---
 
-<p align="center">
+<div align="center">
 
-### Building. Learning. Solving.
+## LET'S BUILD SOMETHING MEANINGFUL.
 
-*One problem at a time.*
+<br>
 
-</p>
+<a href="https://www.linkedin.com/in/sowndharyapl/">LinkedIn</a>
+  ·   <a href="https://github.com/SowndharyaPL15">GitHub</a>
+  ·   <a href="https://sowndharya-beta.vercel.app/">Portfolio</a>
+  ·   <a href="mailto:plsowndharya@gmail.com">Email</a>
+
+<br><br>
+
+`BUILD · LEARN · SOLVE`
+
+</div>
