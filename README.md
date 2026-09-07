@@ -1,148 +1,257 @@
-<div align="center">
+Redesign my GitHub PROFILE README.md from scratch.
 
-<!-- Minimal Dark Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=160&section=header&text=Sowndharya%20P.L.&fontSize=40&fontColor=f0f6fc&fontAlignY=45&desc=Software%20Developer%20%20%C2%B7%20%20AI%2FML%20Enthusiast%20%20%C2%B7%20%20Problem%20Solver&descAlignY=70&descSize=13&descColor=8b949e" width="100%" alt="Sowndharya P.L." />
+IMPORTANT: I want an extremely SHORT, MINIMAL and ELEGANT GitHub profile README.
 
-<br/>
+The current design looks too much like a portfolio/resume. I do NOT like it.
 
-<p align="center">
-  <b>Engineering reliable software at the intersection of Java, Intelligent Systems & Modern Web.</b>
-</p>
+DO NOT reuse the current visual layout.
 
-<p align="center">
-  <a href="https://sowndharya-beta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sowndharyapl/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/SowndharyaPL15/leetcode-solution" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="mailto:plsowndharya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+DESIGN GOAL:
+Think of a senior software engineer's GitHub profile:
+minimal • refined • clean • modern • compact • professional
 
-</div>
+It should look excellent in GitHub dark mode.
 
----
+━━━━━━━━━━━━━━━━━━━━
+MY INFORMATION
+━━━━━━━━━━━━━━━━━━━━
 
-### ✦ Snapshot
+Name:
+Sowndharya P.L.
 
-- 🎓 **Education** &mdash; B.E. Computer Science & Engineering *(Honours in Blockchain)* @ Dr. N.G.P. Institute of Technology `2023–2027` · **8.35 CGPA**
-- ☕ **Core Language** &mdash; **Java** is my primary language for backend systems, architecture, and algorithmic problem-solving.
-- 🧠 **Intelligence** &mdash; Building multimodal deep learning architectures, CNNs, and explainability pipelines (Grad-CAM).
-- 🌐 **Full-Stack** &mdash; Developing accessible, data-driven web applications and scalable REST APIs.
+Role:
+Software Developer · AI/ML Enthusiast · Problem Solver
 
----
+Education:
+B.E. Computer Science & Engineering
+Honours in Blockchain Technology
+Dr. N.G.P. Institute of Technology
+2023–2027
 
-### ✦ Tech Stack
+CGPA:
+8.35 / 10
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,nextjs,nodejs,express,laravel,php,fastapi,tensorflow,pytorch,opencv,mysql,postgres,mongodb,docker,git,postman&perline=11" alt="Tech Stack" />
-  </a>
-</div>
+Primary Language:
+Java
 
-<br/>
+Interests:
+AI/ML · Backend Development · Full-Stack Development · DSA
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Java` `Python` `C` `JavaScript` `TypeScript` |
-| **Backend & APIs** | `Node.js` `Express.js` `PHP` `Laravel` `FastAPI` `Flask` |
-| **Frontend** | `React` `Next.js` `HTML5` `CSS3` `Tailwind CSS` |
-| **AI / Machine Learning** | `TensorFlow` `Keras` `PyTorch` `OpenCV` `Explainable AI` |
-| **Data & Tooling** | `MySQL` `PostgreSQL` `MongoDB` `Git` `Docker` `Postman` |
+GitHub:
+https://github.com/SowndharyaPL15
 
----
+LinkedIn:
+https://www.linkedin.com/in/sowndharyapl/
 
-### ✦ Featured Projects
+LeetCode:
+https://github.com/SowndharyaPL15/leetcode-solution
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧬 Precision Oncology <small><code>FEATURED</code></small></h4>
-      <p>AI-driven multimodal explainable deep learning system for early lung and breast cancer diagnosis using histopathology images and clinical metadata.</p>
-      <p><code>Python</code> · <code>TensorFlow</code> · <code>EfficientNet</code> · <code>DenseNet</code> · <code>FastAPI</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💳 SmartExpensePro</h4>
-      <p>SMS-based Android expense intelligence app that parses bank transaction messages and organizes automated financial records.</p>
-      <p><code>Java</code> · <code>Android SDK</code> · <code>SQLite</code> · <code>Regex</code></p>
-      <p>↳ <a href="https://github.com/SowndharyaPL15/SmartExpensePro"><b>View Repository →</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ PharmaTrace AI</h4>
-      <p>Pharmaceutical authentication and digital supply-chain traceability platform to prevent counterfeit medicine distribution.</p>
-      <p><code>Node.js</code> · <code>Express.js</code> · <code>Python</code> · <code>PostgreSQL</code></p>
-      <p>↳ <a href="https://github.com/SowndharyaPL15/pharmatrace-ai"><b>View Repository →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏙️ CivicPulse</h4>
-      <p>Smart civic issue management platform connecting citizens and municipal authorities with structured issue tracking.</p>
-      <p><code>PHP</code> · <code>Laravel</code> · <code>MySQL</code> · <code>JavaScript</code></p>
-      <p>↳ <a href="https://github.com/SowndharyaPL15/civicpulse"><b>View Repository →</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4>🏥 CuraNet</h4>
-      <p>Healthcare-focused web platform designed for accessible patient care management, medical record tracking, and caregiver coordination.</p>
-      <p><code>Node.js</code> · <code>Express.js</code> · <code>PostgreSQL</code> · <code>EJS</code></p>
-      <p>↳ <a href="https://github.com/SowndharyaPL15/CuraNet"><b>View Repository →</b></a></p>
-    </td>
-  </tr>
-</table>
+Email:
+plsowndharya@gmail.com
 
----
+Portfolio:
+https://sowndharya-beta.vercel.app/
 
-### ✦ Problem Solving
+━━━━━━━━━━━━━━━━━━━━
+IMPORTANT CONTENT RULES
+━━━━━━━━━━━━━━━━━━━━
 
-<p>
-  <b>Java × DSA</b> &mdash; Actively solving algorithmic challenges with a focus on optimal time & space complexity.
-</p>
+DO NOT include:
 
-```text
-Arrays · Strings · Hashing · Linked Lists · Trees · Graphs · Greedy · Backtracking · Dynamic Programming
-```
+❌ Project cards
+❌ Project descriptions
+❌ Detailed project technologies
+❌ Long About Me section
+❌ Tech stack table
+❌ Learning roadmap
+❌ Engineering philosophy
+❌ Long paragraphs
+❌ Huge badge collections
+❌ Visitor counter
+❌ Contribution snake
+❌ Resume-like sections
 
-↳ <a href="https://github.com/SowndharyaPL15/leetcode-solution"><b>Explore LeetCode Solutions Repository →</b></a>
+I only want a SMALL project count, for example:
 
----
+05+ Projects
 
-### ✦ GitHub Activity
+Do not list the projects.
 
-<div align="center">
-  <table border="0" style="border: none;">
-    <tr style="border: none;">
-      <td style="border: none;">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=SowndharyaPL15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_rank=true&include_all_commits=true" alt="GitHub Stats" width="390" />
-      </td>
-      <td style="border: none;">
-        <img src="https://streak-stats.demolab.com/?user=SowndharyaPL15&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="390" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SowndharyaPL15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="460" />
-</div>
+━━━━━━━━━━━━━━━━━━━━
+DESIRED STRUCTURE
+━━━━━━━━━━━━━━━━━━━━
 
----
+The README should contain approximately only:
 
-<div align="center">
+1. Name + short role
+2. One short developer tagline
+3. Social links
+4. Tiny developer stats / snapshot
+5. Compact technology icons
+6. Small counts
+7. GitHub stats
+8. Minimal footer
 
-<em>Building · Learning · Shipping</em>
+Nothing more.
 
-<br/><br/>
+━━━━━━━━━━━━━━━━━━━━
+HEADER
+━━━━━━━━━━━━━━━━━━━━
 
-<a href="https://www.linkedin.com/in/sowndharyapl/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-<a href="https://github.com/SowndharyaPL15"><b>GitHub</b></a> &nbsp;·&nbsp;
-<a href="https://sowndharya-beta.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
-<a href="mailto:plsowndharya@gmail.com"><b>Email</b></a>
+DO NOT use a huge Capsule Render banner.
 
-</div>
+Instead create a very subtle header.
+
+Example concept:
+
+SOWNDHARYA P.L.
+Software Developer · AI/ML Enthusiast
+
+Building practical software with Java, AI & the web.
+
+The name should be the visual focus, but the header should occupy very little vertical space.
+
+━━━━━━━━━━━━━━━━━━━━
+SOCIAL LINKS
+━━━━━━━━━━━━━━━━━━━━
+
+Use elegant small buttons/text links:
+
+LinkedIn · GitHub · LeetCode · Portfolio · Email
+
+Avoid giant colorful badges.
+
+━━━━━━━━━━━━━━━━━━━━
+DEVELOPER SNAPSHOT
+━━━━━━━━━━━━━━━━━━━━
+
+Create a very compact inline layout such as:
+
+🎓 B.E. CSE       💻 Java       🤖 AI/ML
+📚 DSA            🚀 05+ Projects       📈 8.35 CGPA
+
+Do NOT use long explanations.
+
+Do NOT create a table with huge sentences.
+
+━━━━━━━━━━━━━━━━━━━━
+TECH STACK
+━━━━━━━━━━━━━━━━━━━━
+
+Show ONLY technology icons.
+
+Use skillicons.dev if appropriate.
+
+Keep it to around 15–20 important technologies.
+
+Prefer:
+
+Java · Python · C · JavaScript · TypeScript
+React · Next.js · Node.js · Express
+Laravel · TensorFlow · PyTorch
+MySQL · PostgreSQL · MongoDB
+Git · Docker
+
+No technology description table.
+
+━━━━━━━━━━━━━━━━━━━━
+GITHUB STATS
+━━━━━━━━━━━━━━━━━━━━
+
+Keep GitHub statistics compact.
+
+Use:
+
+GitHub Stats
+Top Languages
+Streak
+
+Arrange them cleanly and horizontally where GitHub rendering allows.
+
+Do not make this section enormous.
+
+━━━━━━━━━━━━━━━━━━━━
+VISUAL STYLE
+━━━━━━━━━━━━━━━━━━━━
+
+Use a premium dark minimalist aesthetic.
+
+Colors should be subtle:
+
+#0D1117
+#161B22
+#21262D
+#F0F6FC
+#8B949E
+
+Accent can be a very subtle blue/purple.
+
+NO:
+❌ neon
+❌ cyberpunk
+❌ excessive gradients
+❌ colorful boxes everywhere
+❌ giant banners
+❌ excessive emojis
+❌ excessive badges
+
+Think:
+
+"Apple-like minimalism + GitHub developer profile"
+
+rather than:
+
+"portfolio website"
+
+━━━━━━━━━━━━━━━━━━━━
+MOST IMPORTANT
+━━━━━━━━━━━━━━━━━━━━
+
+The entire README should fit comfortably on one screen or close to it.
+
+Make it visually breathable.
+
+Use whitespace intelligently.
+
+Every element must earn its place.
+
+If something does not add value, REMOVE IT.
+
+The README should immediately communicate:
+
+"Sowndharya is a Java-focused developer interested in AI/ML and building software."
+
+without making the visitor read a lot.
+
+━━━━━━━━━━━━━━━━━━━━
+TECHNICAL REQUIREMENTS
+━━━━━━━━━━━━━━━━━━━━
+
+Output ONLY the complete README.md.
+
+Use only GitHub-compatible Markdown and HTML.
+
+No JavaScript.
+No CSS files.
+No unsupported components.
+
+External services allowed:
+- skillicons.dev
+- shields.io
+- github-readme-stats
+- streak-stats
+
+Make sure all image URLs are valid.
+
+Do not invent achievements, statistics, certifications, or project details.
+
+FINAL RULE:
+
+Do NOT make it look impressive by adding more content.
+
+Make it impressive by using LESS content with BETTER DESIGN.
+
+SHORTER.
+CLEANER.
+MORE ELEGANT.
+MORE PROFESSIONAL.
