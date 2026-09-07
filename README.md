@@ -1,156 +1,171 @@
 <div align="center">
 
-# 👋 Hi, I'm Sowndharya P.L.
+# Hi 👋, I'm Sowndharya P.L.
 
-### Full Stack Developer · AI Enthusiast · Problem Solver
+### Full Stack Developer • AI Enthusiast • Problem Solver
 
-**Building practical software, intelligent AI solutions, and scalable web applications.**
+Building scalable web applications, intelligent AI solutions, and software that solves real-world problems.
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Java+Backend+Developer;Computer+Vision+Developer;Building+Real-World+Solutions)](https://git.io/typing-svg)
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SowndharyaPL15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowndharyapl/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/SOWNDHARYAPL/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://sowndharya-beta.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Java+Backend+Developer;Computer+Vision+Developer;Building+Real-World+Solutions)](https://git.io/typing-svg)
 
 </div>
 
----
+## 📌 Executive Summary
 
-## 👨‍💻 About Me
-
-I'm a **Computer Science Engineering student** passionate about building
-software that solves real-world problems.
-
-My primary interests include:
-
-- Full Stack Development
-- Java & Backend Engineering
-- Artificial Intelligence & Machine Learning
-- Computer Vision & Explainable AI
-- Data Structures & Algorithms
-- REST API Development
-
-I enjoy transforming ideas into practical solutions through
-**development, testing, and continuous learning.**
+I’m a Computer Science Engineering student passionate about Software Engineering, Full Stack Development, AI, ML, Computer Vision, and Blockchain Technology. I enjoy building practical, intelligent solutions to real-world problems and continuously improving my algorithmic and software development skills.
 
 ---
 
-## 🚀 Featured Projects
+# 💻 Projects
 
-### 🩺 Precision Oncology
+## 🩺 Precision Oncology
 
-AI-driven multimodal explainable deep learning system for early
-**lung and breast cancer diagnosis**, combining medical imaging
-with clinical information.
+AI-driven multimodal explainable deep learning system for early lung and breast cancer diagnosis using medical imaging and clinical information.
 
-**Focus:**  
-`Computer Vision` `Deep Learning` `Explainable AI` `FastAPI` `React`
+**Focus:** `Computer Vision` `Deep Learning` `Explainable AI` `FastAPI` `React`
 
 ---
 
-### 💰 SmartExpensePro
+## 💰 SmartExpensePro
 
-SMS-based Android expense intelligence application that automatically
-detects financial transactions from messages and organizes them into
-structured expense records.
+SMS-based Android expense intelligence app that automatically detects financial transactions from messages and organizes structured expense records.
 
-**Focus:**  
-`Java` `Android SDK` `SQLite` `Regex`
+**Focus:** `Java` `Android SDK` `SQLite` `Regex Engine`
 
 ---
 
-### 💊 PharmaTrace AI
+## 💊 PharmaTrace AI
 
-AI-enabled pharmaceutical platform focused on **medicine authentication,
-counterfeit prevention, and supply-chain traceability**.
+AI-enabled platform for medicine authentication, counterfeit prevention, and pharmaceutical supply-chain traceability.
 
-**Focus:**  
-`Node.js` `Express.js` `Python` `Flask` `OpenCV` `PostgreSQL`
+**Focus:** `Node.js` `Express.js` `Python Flask` `OpenCV` `PostgreSQL`
 
 ---
 
-### 🏙️ CivicPulse
+## 🏙️ CivicPulse
 
-Smart civic technology platform for reporting public issues and helping
-municipal teams process, monitor, and manage resolutions.
+Smart civic technology platform for reporting public issues, processing submissions, and helping municipal teams manage resolutions.
 
-**Focus:**  
-`PHP` `MySQL` `JavaScript` `Civic Tech`
+**Focus:** `PHP` `Laravel` `MySQL` `JavaScript` `Civic Tech`
 
 ---
 
-### 🏥 CuraNet
+## 🏥 CuraNet
 
-Digital healthcare platform designed to support accessible patient
-care coordination, scheduling, and medical record management.
+Digital healthcare platform designed for accessible patient care coordination, schedule tracking, and medical record management.
 
-**Focus:**  
-`Node.js` `Express.js` `PostgreSQL` `EJS`
+**Focus:** `Node.js` `Express.js` `PostgreSQL` `EJS` `Healthcare Tech`
 
 ---
 
-### 🧩 LeetCode & Algorithmic Solutions
+## 🧩 LeetCode & Algorithmic Solutions
 
-Collection of **Data Structures and Algorithms solutions in Java**
-covering:
+Comprehensive collection of Data Structures and Algorithm solutions in Java covering Trees, Graphs, DP, and Backtracking.
 
-`Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues` ·
-`Trees` · `Graphs` · `Dynamic Programming` · `Backtracking`
-
-<div align="center">
-
-[![View LeetCode Solutions](https://img.shields.io/badge/VIEW%20MY%20LEETCODE%20SOLUTIONS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://github.com/SowndharyaPL15/leetcode-solution)
-
-</div>
+**Focus:** `Java` `Data Structures` `Algorithms` `Problem Solving`
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages
+### Programming
 
 `Java` `Python` `C` `JavaScript` `TypeScript`
 
-### 🎨 Frontend
+### Frontend
 
 `HTML5` `CSS3` `JavaScript` `React.js` `Next.js` `Tailwind CSS`
 
-### ⚙️ Backend
+### Backend
 
-`Node.js` `Express.js` `PHP` `FastAPI` `Flask`
+`Node.js` `Express.js` `PHP` `Laravel` `FastAPI` `Flask`
 
-### 🗄️ Databases
+### Databases
 
 `PostgreSQL` `MySQL` `MongoDB` `SQLite`
 
-### 🤖 AI / Machine Learning
+### AI / ML
 
-`Machine Learning` `Deep Learning` `TensorFlow` `Keras`
-`PyTorch` `OpenCV` `Explainable AI`
+`Machine Learning` `Deep Learning` `TensorFlow` `Keras` `PyTorch` `OpenCV` `Explainable AI`
 
-### 🔧 Tools
+### Tools & Technologies
 
-`Git` `GitHub` `Docker` `Postman` `VS Code`
-`Android Studio` `REST APIs`
+`Git` `GitHub` `Docker` `Postman` `VS Code` `Android Studio` `REST APIs`
+
+### Areas of Interest
+
+* Artificial Intelligence
+* Deep Learning & Computer Vision
+* Explainable AI (XAI)
+* Backend Engineering & REST APIs
+* Full Stack Web Development
+* Data Structures & Algorithms
+* Blockchain Technology
 
 ---
 
-## 📊 My Development Approach
+## 📊 What I Build
 
 ```text
-        Real-World Problem
-                 ↓
-          Problem Analysis
-                 ↓
-        Technology Selection
-                 ↓
-       Full Stack / AI Solution
-                 ↓
-         Testing & Evaluation
-                 ↓
-         Practical Application
+Real-World Problem
+        ↓
+Problem Analysis
+        ↓
+Technology Selection
+        ↓
+Full Stack / AI Solution
+        ↓
+Testing & Evaluation
+        ↓
+Practical Application
+```
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SowndharyaPL15&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+# 🧩 LeetCode & Problem Solving
+
+<div align="center">
+
+<a href="https://github.com/SowndharyaPL15/leetcode-solution" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW_MY_LEETCODE_SOLUTIONS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/SowndharyaPL15" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sowndharyapl/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:plsowndharya@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SowndharyaPL15/leetcode-solution" target="_blank">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://sowndharya-beta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+⭐ *I believe in learning by building — turning ideas into working solutions, one project at a time.*
